@@ -5,6 +5,9 @@ This project is designed to process PDF documents using OCR (Optical Character R
 ## Project Structure
 
 - `src/`: Contains the main script for processing documents.
+- `pdfs/`: Directory to store the input PDF files.
+- `ocr_text/`: Directory where OCR text files will be saved.
+- `folder_for_json_files/`: Directory where extracted data JSON files will be saved.
 - `README.md`: This file.
 - `requirements.txt`: File listing the project dependencies.
 
